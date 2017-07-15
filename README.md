@@ -12,3 +12,10 @@ Emulation of the series "The Math of Intelligence" by Siraj Raval
 
 ### 2. Support Vector Machines
 * Link : https://www.youtube.com/watch?v=g8D5YL6cOSE&t=1s
+
+
+
+### 3. Second order Optimization
+* Link: https://www.youtube.com/watch?v=UIFMLK2nj_w&t=1s
+
+Newton's Method uses the 2nd derivative for optimizing, which hints at a graphs curvature, has better step-wise performance, but is usually outperformed by gradient descent because computing the 2nd derivative is computationally expensive.
