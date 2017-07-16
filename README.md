@@ -13,6 +13,7 @@ Emulation of the series "The Math of Intelligence" by Siraj Raval
 ### 2. Support Vector Machines
 * Link : https://www.youtube.com/watch?v=g8D5YL6cOSE&t=1s
 
+Support Vector Machines are a very popular type of machine learning model used for classification when you have a small dataset.
 
 
 ### 3. Second order Optimization
