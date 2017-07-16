@@ -19,3 +19,9 @@ Emulation of the series "The Math of Intelligence" by Siraj Raval
 * Link: https://www.youtube.com/watch?v=UIFMLK2nj_w&t=1s
 
 Newton's Method uses the 2nd derivative for optimizing, which hints at a graphs curvature, has better step-wise performance, but is usually outperformed by gradient descent because computing the 2nd derivative is computationally expensive.
+
+
+### 4. Logistic Regression
+* Link: https://www.youtube.com/watch?v=D8alok2P468
+
+We're going to use logistic regression to predict if someone has diabetes or not given 3 body metrics! We'll use Newton's method to help us optimize the model. We'll use a bit from all the mathematical disciplines i've mentioned (calculus, linear algebra, probability theory, statistics). 
