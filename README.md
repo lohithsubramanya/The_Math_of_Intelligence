@@ -26,3 +26,9 @@ Newton's Method uses the 2nd derivative for optimizing, which hints at a graphs 
 * Link: https://www.youtube.com/watch?v=D8alok2P468
 
 We're going to use logistic regression to predict if someone has diabetes or not given 3 body metrics! We'll use Newton's method to help us optimize the model. We'll use a bit from all the mathematical disciplines i've mentioned (calculus, linear algebra, probability theory, statistics). 
+
+
+### 5. Vectors
+* Link: https://www.youtube.com/watch?v=s0Q3CojqRfM
+
+Basically, its just 2 pieces of code that I used to show an example. One compares the dot product operation to standard multiplication to show how linear algebra is faster when we have several numbers to calculate simultaneously. The other is just a simple neural network to show that vectors don't just represent data, they represent our model's learnings.
