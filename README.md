@@ -32,3 +32,9 @@ We're going to use logistic regression to predict if someone has diabetes or not
 * Link: https://www.youtube.com/watch?v=s0Q3CojqRfM
 
 Basically, its just 2 pieces of code that I used to show an example. One compares the dot product operation to standard multiplication to show how linear algebra is faster when we have several numbers to calculate simultaneously. The other is just a simple neural network to show that vectors don't just represent data, they represent our model's learnings.
+
+
+### 6. k-Means Clustering
+* Link: https://www.youtube.com/watch?v=9991JlKnFmk
+
+Let's detect the intruder trying to break into our security system using a very popular ML technique called K-Means Clustering! This is an example of learning from data that has no labels (unsupervised) and we'll use some concepts that we've already learned about like computing the Euclidean distance and a loss function to do this. 
