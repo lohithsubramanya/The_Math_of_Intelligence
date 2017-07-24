@@ -38,3 +38,9 @@ Basically, its just 2 pieces of code that I used to show an example. One compare
 * Link: https://www.youtube.com/watch?v=9991JlKnFmk
 
 Let's detect the intruder trying to break into our security system using a very popular ML technique called K-Means Clustering! This is an example of learning from data that has no labels (unsupervised) and we'll use some concepts that we've already learned about like computing the Euclidean distance and a loss function to do this. 
+
+
+### 7. Neural Networks
+* Link: https://www.youtube.com/watch?v=ov_RkIJptwE&t=4s
+
+Have you ever wondered what the math behind neural networks looks like? What gives them such incredible power? We're going to cover 4 different neural networks in this video to develop an intuition around their basic principles (2 feedforward networks, 1 recurrent network, and a self-organizing map). Prepare yourself, deep learning is coming.
