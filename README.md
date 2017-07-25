@@ -44,3 +44,9 @@ Let's detect the intruder trying to break into our security system using a very 
 * Link: https://www.youtube.com/watch?v=ov_RkIJptwE&t=4s
 
 Have you ever wondered what the math behind neural networks looks like? What gives them such incredible power? We're going to cover 4 different neural networks in this video to develop an intuition around their basic principles (2 feedforward networks, 1 recurrent network, and a self-organizing map). Prepare yourself, deep learning is coming.
+
+
+### 8. Convolutional Nueral Networks
+* Link: https://www.youtube.com/watch?v=FTr3n7uBIuE&t=4s
+
+Convolutional Networks allow us to classify images, generate them, and can even be applied to other types of data. We're going to build one in numpy that can classify and type of alphanumeric character.
