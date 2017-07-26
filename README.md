@@ -50,3 +50,8 @@ Have you ever wondered what the math behind neural networks looks like? What giv
 * Link: https://www.youtube.com/watch?v=FTr3n7uBIuE&t=4s
 
 Convolutional Networks allow us to classify images, generate them, and can even be applied to other types of data. We're going to build one in numpy that can classify and type of alphanumeric character.
+
+### 9. Dimensionality Reduction
+* Link: https://www.youtube.com/watch?v=jPmV3j1dAv4&t=10s
+
+Most of the datasets you'll find will have more than 3 dimensions. How are you supposed to understand visualize n-dimensional data? Enter dimensionality reduction techniques. We'll go over the the math behind the most popular such technique called Principal Component Analysis.
