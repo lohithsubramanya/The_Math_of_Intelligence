@@ -55,3 +55,9 @@ Convolutional Networks allow us to classify images, generate them, and can even 
 * Link: https://www.youtube.com/watch?v=jPmV3j1dAv4&t=10s
 
 Most of the datasets you'll find will have more than 3 dimensions. How are you supposed to understand visualize n-dimensional data? Enter dimensionality reduction techniques. We'll go over the the math behind the most popular such technique called Principal Component Analysis.
+
+
+### 10. Recurrent Neural Networks
+* Link: https://www.youtube.com/watch?v=BwmddtPFWtA&t=233s
+
+Recurrent networks let us learn from sequential data (time series, music, audio, video frames, etc ). We're going to build one from scratch in numpy (including backpropagation) to generate a sequence of words in the style of Franz Kafka. 
