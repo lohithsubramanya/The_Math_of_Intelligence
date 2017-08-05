@@ -61,3 +61,9 @@ Most of the datasets you'll find will have more than 3 dimensions. How are you s
 * Link: https://www.youtube.com/watch?v=BwmddtPFWtA&t=233s
 
 Recurrent networks let us learn from sequential data (time series, music, audio, video frames, etc ). We're going to build one from scratch in numpy (including backpropagation) to generate a sequence of words in the style of Franz Kafka. 
+
+
+### 11. Probability Thoery - Naive Bayes
+* Link: https://www.youtube.com/watch?v=PrkiRVcrxOs&t=3s
+
+We'll build a Spam Detector using a machine learning model called a Naive Bayes Classifier!
