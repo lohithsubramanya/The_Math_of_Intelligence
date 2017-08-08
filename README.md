@@ -67,3 +67,9 @@ Recurrent networks let us learn from sequential data (time series, music, audio,
 * Link: https://www.youtube.com/watch?v=PrkiRVcrxOs&t=3s
 
 We'll build a Spam Detector using a machine learning model called a Naive Bayes Classifier!
+
+
+### 12. Random Forests
+* Link: https://www.youtube.com/watch?v=QHOazyP-YlM&t=1s
+
+This is one of the most used machine learning models ever. Random Forests can be used for both regression and classification, and our use case will be to assess whether someone is credible or not by analyzing their financial history!
