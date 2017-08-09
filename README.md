@@ -73,3 +73,9 @@ We'll build a Spam Detector using a machine learning model called a Naive Bayes 
 * Link: https://www.youtube.com/watch?v=QHOazyP-YlM&t=1s
 
 This is one of the most used machine learning models ever. Random Forests can be used for both regression and classification, and our use case will be to assess whether someone is credible or not by analyzing their financial history!
+
+
+### 13. Hyperparameter Optimization
+* Link: https://www.youtube.com/watch?v=ttE0F7fghfk&t=11s
+
+Hyperparameters are the magic numbers of machine learning. We're going to learn how to find them in a more intelligent way than just trial-and-error. We'll go over grid search, random search, and Bayesian Optimization.
