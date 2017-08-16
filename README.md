@@ -79,3 +79,9 @@ This is one of the most used machine learning models ever. Random Forests can be
 * Link: https://www.youtube.com/watch?v=ttE0F7fghfk&t=11s
 
 Hyperparameters are the magic numbers of machine learning. We're going to learn how to find them in a more intelligent way than just trial-and-error. We'll go over grid search, random search, and Bayesian Optimization.
+
+
+### 14. Gaussian Mixture Models
+* Link: https://www.youtube.com/watch?v=JNlEIEwe-Cg
+
+This is a lesson on Gaussian Mixture Models, they are probability distributions that consist of multiple Gaussian distributions. This is useful for modeling more complex data, that has multiple peaks. Sometimes one bell curve isn't enough. We can optimize this model for clustering so that we can classify the data into the discovered classes using the Expectation Maximization algorithm.
