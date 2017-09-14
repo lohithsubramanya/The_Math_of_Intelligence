@@ -91,3 +91,9 @@ This is a lesson on Gaussian Mixture Models, they are probability distributions 
 * Link: https://www.youtube.com/watch?v=HyuBTMaKFmU&t=247s
 
 Generative Models are insanely cool! They help create never before seen data. We'll go over the mathematical difference between discriminative and generative models, talk about a few types, then dive into a basic one called Latent Dirichlet Allocation to generate a set of topics for some news articles. 
+
+
+### 16. Long Short Term Memory (LSTM) Networks
+* Link: https://www.youtube.com/watch?v=9zhrxE5PQgY&t=45s
+
+Recurrent Networks can be improved to remember long range dependencies by using whats called a Long-Short Term Memory (LSTM) Cell. 
