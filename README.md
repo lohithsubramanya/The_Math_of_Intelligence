@@ -97,3 +97,9 @@ Generative Models are insanely cool! They help create never before seen data. We
 * Link: https://www.youtube.com/watch?v=9zhrxE5PQgY&t=45s
 
 Recurrent Networks can be improved to remember long range dependencies by using whats called a Long-Short Term Memory (LSTM) Cell. 
+
+
+### 17. Deep Q-Learning for video games
+* Link: https://www.youtube.com/watch?v=79pmNdyxEGo&t=36s
+
+We're going to replicate DeepMind's Deep Q Learning algorithm for Super Mario Bros! This bot will be able to play a bunch of different video games by using reinforcement learning.
