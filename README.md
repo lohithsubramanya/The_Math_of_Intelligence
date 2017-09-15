@@ -103,3 +103,8 @@ Recurrent Networks can be improved to remember long range dependencies by using 
 * Link: https://www.youtube.com/watch?v=79pmNdyxEGo&t=36s
 
 We're going to replicate DeepMind's Deep Q Learning algorithm for Super Mario Bros! This bot will be able to play a bunch of different video games by using reinforcement learning.
+
+### 18. Evolutionary Space Invaders
+* Link: https://www.youtube.com/watch?v=rGWBo0JGf50
+
+Evolutionary/genetic algorithms are somewhat of a mystery to many in the machine learning discipline. You don't see papers regularly published using them but they are a really fascinating subfield and in this video we're going to use a genetic algorithm to improve invaders in a space invaders game!
