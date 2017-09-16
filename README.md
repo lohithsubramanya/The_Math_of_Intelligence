@@ -108,3 +108,9 @@ We're going to replicate DeepMind's Deep Q Learning algorithm for Super Mario Br
 * Link: https://www.youtube.com/watch?v=rGWBo0JGf50
 
 Evolutionary/genetic algorithms are somewhat of a mystery to many in the machine learning discipline. You don't see papers regularly published using them but they are a really fascinating subfield and in this video we're going to use a genetic algorithm to improve invaders in a space invaders game!
+
+
+### 19. Quantum Computing
+* Link: https://www.youtube.com/watch?v=LhtnECml-KI&t=28s
+
+Quantum Computing offers hope for computing progress as we approach the limits of transistor density on silicon hardware. We're going to talk about the theory behind them then build our own quantum algorithm using IBM's Quantum API! 
